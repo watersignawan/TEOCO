@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEOCOApp", "TEOCOApp\TEOCOApp.csproj", "{3F9F1984-7CDA-4AC4-BE55-760DF9F3D55F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEOCOApp.Tests", "TEOCOApp.Tests\TEOCOApp.Tests.csproj", "{202A871D-CD1F-4AFB-ABFA-74412F6E1D33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F9F1984-7CDA-4AC4-BE55-760DF9F3D55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9F1984-7CDA-4AC4-BE55-760DF9F3D55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9F1984-7CDA-4AC4-BE55-760DF9F3D55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9F1984-7CDA-4AC4-BE55-760DF9F3D55F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202A871D-CD1F-4AFB-ABFA-74412F6E1D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202A871D-CD1F-4AFB-ABFA-74412F6E1D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202A871D-CD1F-4AFB-ABFA-74412F6E1D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202A871D-CD1F-4AFB-ABFA-74412F6E1D33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72B0650B-D49C-4165-ABE3-10C67A04A9E9}
+	EndGlobalSection
+EndGlobal

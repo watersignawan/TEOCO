@@ -1,0 +1,8 @@
+C:\Users\Datawork\Desktop\Assignments\TEOCO\TEOCOApp\bin\Debug\data.txt
+C:\Users\Datawork\Desktop\Assignments\TEOCO\TEOCOApp\bin\Debug\TEOCOApp.exe.config
+C:\Users\Datawork\Desktop\Assignments\TEOCO\TEOCOApp\bin\Debug\TEOCOApp.exe
+C:\Users\Datawork\Desktop\Assignments\TEOCO\TEOCOApp\bin\Debug\TEOCOApp.pdb
+C:\Users\Datawork\Desktop\Assignments\TEOCO\TEOCOApp\obj\Debug\TEOCOApp.csprojAssemblyReference.cache
+C:\Users\Datawork\Desktop\Assignments\TEOCO\TEOCOApp\obj\Debug\TEOCOApp.csproj.CoreCompileInputs.cache
+C:\Users\Datawork\Desktop\Assignments\TEOCO\TEOCOApp\obj\Debug\TEOCOApp.exe
+C:\Users\Datawork\Desktop\Assignments\TEOCO\TEOCOApp\obj\Debug\TEOCOApp.pdb
